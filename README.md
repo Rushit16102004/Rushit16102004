@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:bodrarushit@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=bodrarushit@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Hire_Me_via_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 
