@@ -4,12 +4,22 @@
 </p>
 
 <p align="center">
-  <a href="mailto:bodrarushit@gmail.com"><img src="https://img.shields.io/badge/Hire_Me_via_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://linkedin.com/in/rushit-bodra-ml"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/Rushit16102004"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="tel:+918160034453"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-</p>
+  <a href="mailto:bodrarushit@gmail.com">
+    <img src="https://img.shields.io/badge/Hire_Me_via_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 
+  <a href="https://linkedin.com/in/rushit-bodra-ml" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
+  <a href="https://github.com/Rushit16102004" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+
+  <a href="https://wa.me/918160034453" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+</p>
 <hr>
 
 <p align="center">
